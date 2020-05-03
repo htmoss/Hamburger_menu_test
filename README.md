@@ -1,2 +1,5 @@
 # Hamburger_menu_test
-Practice website with hamburger menu
+First implementation of creating a hamburger menu using HTML/CSS
+
+Link:
+https://htmoss.github.com/Hamburger_menu_test
