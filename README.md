@@ -2,4 +2,4 @@
 First implementation of creating a hamburger menu using HTML/CSS
 
 Link:
-https://htmoss.github.com/Hamburger_menu_test
+https://htmoss.github.io/Hamburger_menu_test
